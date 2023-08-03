@@ -1,1 +1,1 @@
-# CodeClouse_intenship1
+# Code clouse Intenship tasks
